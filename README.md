@@ -12,6 +12,6 @@
 <a href="https://t.me/althafvly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="althafvly" height="30" width="40" /></a>
 <a href="https://twitter.com/althafvly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="althafvly" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/althafvly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="althafvly" height="30" width="40" /></a>
-<a href="https://instagram.com/_talkter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_talkter" height="30" width="40" /></a>
+<a href="https://instagram.com/_talkster" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_talkter" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/althafthayyil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="althafthayyil" height="30" width="40" /></a>
 </p>
