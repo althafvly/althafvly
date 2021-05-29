@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm althafvly <img width="125" src="https://komarev.com/ghpvc/?username=althafvly&style=flat-square" alt="althafvly">
+ <img width="125" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dalthafvly&longCache=true" alt="althafvly">
  </h1>
 <h3 align="center">A Noob Developer from Kerala</h3>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=althafvly" alt="althafvly" /></a> </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=althafvly" alt="althafvly"> &nbsp<img src="https://github-readme-stats.vercel.app/api/top-langs?username=althafvly&show_icons=true&locale=en&layout=compact" alt="althafvly" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=althafvly&include_all_commits=true" alt="althafvly"> &nbsp<img src="https://github-readme-stats.vercel.app/api/top-langs?username=althafvly&show_icons=true&locale=en&layout=compact" alt="althafvly" /></p>
 
 <h3 align="center">Don't PM, if you need help with my garbage. <strong>(Pls No 😭) <strong></h3>
 
