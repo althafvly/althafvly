@@ -3,8 +3,8 @@
  </h1>
 <h3 align="center">A Noob Developer from Kerala</h3>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=althafvly" alt="althafvly" /></a> </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=althafvly&include_all_commits=true" alt="althafvly"> &nbsp<img src="https://github-readme-stats.vercel.app/api/top-langs?username=althafvly&show_icons=true&locale=en&layout=compact" alt="althafvly" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=althafvly&theme=onedark&column=4" alt="althafvly" /></a> </p>
+<p align="center"><img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=althafvly&include_all_commits=true&theme=onedark&count_private=true" alt="althafvly"> &nbsp<img src="https://github-readme-stats.vercel.app/api/top-langs?username=althafvly&show_icons=true&locale=en&layout=compact&theme=onedark&count_private=true" alt="althafvly" /></p>
 
 <h3 align="center">Don't PM, if you need help with my garbage. <strong>(Pls No 😭) <strong></h3>
 
